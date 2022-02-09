@@ -1,0 +1,16 @@
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.exe
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.deps.json
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.runtimeconfig.json
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.runtimeconfig.dev.json
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.dll
+D:\code\NET\DataView\bin\Debug\net5.0-windows\ref\DataView.dll
+D:\code\NET\DataView\bin\Debug\net5.0-windows\DataView.pdb
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.csprojAssemblyReference.cache
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.AssemblyInfoInputs.cache
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.AssemblyInfo.cs
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.csproj.CoreCompileInputs.cache
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.dll
+D:\code\NET\DataView\obj\Debug\net5.0-windows\ref\DataView.dll
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.pdb
+D:\code\NET\DataView\obj\Debug\net5.0-windows\DataView.genruntimeconfig.cache
